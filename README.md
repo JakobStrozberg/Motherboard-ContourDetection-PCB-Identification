@@ -1,4 +1,2 @@
-Code and Images for my AER850 Project 3
-
-Jakob Sol Strozberg
-Toronto Metropolitan University
+Contains train, val, and test datasets
+By Jakob Sol Strozberg
